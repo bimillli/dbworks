@@ -5,3 +5,6 @@ CREATE TABLE person(
     name    VARCHAR2(20) NOT NULL,
     age     NUMBER(3)
 );
+
+SELECT * 
+FROM person;
