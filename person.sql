@@ -9,6 +9,7 @@ CREATE TABLE person(
 --자료 삽입
 INSERT INTO person VALUES('cloud', 'cloud123', '구름', 120);
 
+--조회
 SELECT*FROM person;
 
 COMMIT;
